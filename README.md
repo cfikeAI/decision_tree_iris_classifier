@@ -33,7 +33,7 @@ The goal is to train a **Decision Tree** model to classify a flower into its cor
 
 
 # Clone repo
-git clone https://github.com/YOUR_USERNAME/iris-decision-tree.git
+git clone https://github.com/cfikeAI/decision_tree_iris_classifier.git
 cd iris-decision-tree
 
 # Create venv
