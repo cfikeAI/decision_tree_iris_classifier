@@ -42,8 +42,3 @@ source venv/bin/activate  # On Windows use venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
-
-# Dependencies
-python >= 3.8
-scikit-learn
-matplotlib
